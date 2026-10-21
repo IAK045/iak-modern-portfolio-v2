@@ -1,0 +1,229 @@
+{
+  "name": "Isteyaque Ahmad Khan",
+  "brand": "IAK",
+  "headline": "Software Developer · Full-Stack & AI Projects",
+  "summary": "B.Tech Computer Science Engineering student at JB Institute of Technology, Dehradun. I build practical software, AI-powered applications, and engineering simulations.",
+  "location": "Dehradun, India",
+  "graduation": "2027",
+  "github": "https://github.com/IAK045",
+  "linkedin": "https://www.linkedin.com/in/isteyaque/",
+  "portfolio": "https://iakdev.vercel.app",
+  "email": "",
+  "projects": [
+    {
+      "name": "MediScan — AI Medicine Assistant",
+      "category": "AI + Mobile",
+      "description": "Flutter medicine assistant concept using OCR to extract medicine text, OpenFDA lookups, and Hindi text-to-speech. Describe features as implemented only where they work in the current repository.",
+      "stack": [
+        "Flutter",
+        "Dart",
+        "OCR",
+        "OpenFDA API",
+        "Text-to-Speech"
+      ],
+      "href": "https://github.com/IAK045/mediscan",
+      "status": "Project"
+    },
+    {
+      "name": "Acoustic Holographic Display",
+      "category": "Engineering R&D",
+      "description": "Digital design work covering mathematical modelling, simulation, 3D visualization, circuit/PCB design, and control software. Physical prototype has not yet been built.",
+      "stack": [
+        "Python",
+        "KiCad",
+        "LTspice",
+        "Blender",
+        "Figma"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Digital design · Prototype pending"
+    },
+    {
+      "name": "Handwritten Text Scanner",
+      "category": "AI + Full-Stack",
+      "description": "OCR workflow concept combining handwritten-text recognition with an API and a Flutter interface. Add a demo and repository link when the current build is ready.",
+      "stack": [
+        "Python",
+        "Tesseract OCR",
+        "Flask",
+        "Flutter"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Project"
+    },
+    {
+      "name": "CyberSec Toolkit",
+      "category": "Python Tools",
+      "description": "Python-based cybersecurity utility project. Document the specific modules, safe test cases, and supported workflows in the repository README.",
+      "stack": [
+        "Python",
+        "Linux",
+        "Networking"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Project"
+    },
+    {
+      "name": "Tic Tac Toe — Java",
+      "category": "Programming",
+      "description": "A Java game project demonstrating basic game logic, input handling, and conditional flow. Add a repository-specific link when available.",
+      "stack": [
+        "Java",
+        "OOP",
+        "Game Logic"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Project"
+    },
+    {
+      "name": "Developer Portfolio",
+      "category": "Web Development",
+      "description": "Personal portfolio rebuilt with Next.js, React, TypeScript, responsive CSS, JSON-driven project data, and Vercel deployment workflow.",
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "CSS",
+        "JSON",
+        "Vercel"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Current build"
+    },
+    {
+      "name": "DSA Practice & Visual Learning",
+      "category": "Computer Science",
+      "description": "Data structures and algorithms practice. Add specific visualizations, solved-problem counts, or benchmark results only when you can verify them.",
+      "stack": [
+        "C++",
+        "Java",
+        "Python",
+        "DSA"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Learning project"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Languages",
+      "items": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Dart",
+        "SQL"
+      ]
+    },
+    {
+      "group": "Frontend",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Responsive UI"
+      ]
+    },
+    {
+      "group": "Backend & APIs",
+      "items": [
+        "Node.js",
+        "Express.js",
+        "Flask",
+        "REST APIs",
+        "JSON"
+      ]
+    },
+    {
+      "group": "Databases & Cloud",
+      "items": [
+        "MongoDB",
+        "Firebase",
+        "PostgreSQL (learning)",
+        "Vercel",
+        "GitHub"
+      ]
+    },
+    {
+      "group": "AI & OCR",
+      "items": [
+        "OCR",
+        "Tesseract",
+        "Google ML Kit",
+        "OpenFDA API",
+        "Text-to-Speech"
+      ]
+    },
+    {
+      "group": "Engineering & Tools",
+      "items": [
+        "Linux",
+        "Git",
+        "KiCad",
+        "LTspice",
+        "Blender",
+        "Figma"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+      "issuer": "Oracle University",
+      "file": "/oracle-ai-foundations.pdf"
+    },
+    {
+      "name": "MERN Stack Developer — 60-hour course",
+      "issuer": "JB Institute of Technology / Ensino R&D",
+      "file": "/mern-stack-developer.pdf"
+    },
+    {
+      "name": "UI / UX Designing — 45-hour course",
+      "issuer": "JB Institute of Technology / Ensino R&D",
+      "file": "/ui-ux-design.pdf"
+    },
+    {
+      "name": "Getting Started with Generative AI",
+      "issuer": "IBM SkillsBuild",
+      "file": "/ibm-generative-ai.pdf",
+      "verify": "https://www.credly.com/go/f4rnHM9u"
+    },
+    {
+      "name": "Anthropic Claude Certified Developer Foundations — Cert Prep",
+      "issuer": "LinkedIn Learning",
+      "file": "/anthropic-claude-course-prep.pdf"
+    },
+    {
+      "name": "From Relational Model (SQL) to MongoDB's Document Model",
+      "issuer": "MongoDB",
+      "file": "/mongodb-skill.pdf",
+      "verify": "https://www.credly.com/badges/852233b2-6892-492f-89ad-f19fd268516e"
+    },
+    {
+      "name": "Introduction to Ethical Hacking",
+      "issuer": "Great Learning Academy",
+      "file": "/certificates/introduction-to-ethical-hacking.pdf"
+    },
+    {
+      "name": "Brain Booster IT Quiz — Certificate of Participation",
+      "issuer": "Training Shaala",
+      "file": "/certificates/brain-booster-it-quiz.pdf"
+    },
+    {
+      "name": "Generative AI, Agentic AI, MLOps & Enterprise RAG Bootcamp",
+      "issuer": "Koenig Solutions",
+      "file": "/certificates/generative-ai-agentic-ai-mlops-rag-bootcamp.pdf"
+    },
+    {
+      "name": "Hackathon Fest — Certificate of Participation (April 2025)",
+      "issuer": "Codways",
+      "file": "/certificates/hackathon-participation.pdf"
+    }
+  ],
+  "resume": "/resume.pdf"
+}
