@@ -126,33 +126,33 @@
     {
       "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
       "issuer": "Oracle University",
-      "file": "/oracle-ai-foundations.pdf"
+      "file": "/certificates/oracle-ai-foundations.pdf"
     },
     {
       "name": "MERN Stack Developer — 60-hour course",
       "issuer": "JB Institute of Technology / Ensino R&D",
-      "file": "/mern-stack-developer.pdf"
+      "file": "/certificates/mern-stack-developer.pdf"
     },
     {
       "name": "UI / UX Designing — 45-hour course",
       "issuer": "JB Institute of Technology / Ensino R&D",
-      "file": "/ui-ux-design.pdf"
+      "file": "/certificates/ui-ux-design.pdf"
     },
     {
       "name": "Getting Started with Generative AI",
       "issuer": "IBM SkillsBuild",
-      "file": "/ibm-generative-ai.pdf",
+      "file": "/certificates/ibm-generative-ai.pdf",
       "verify": "https://www.credly.com/go/f4rnHM9u"
     },
     {
       "name": "Anthropic Claude Certified Developer Foundations — Cert Prep",
       "issuer": "LinkedIn Learning",
-      "file": "/anthropic-claude-course-prep.pdf"
+      "file": "/certificates/anthropic-claude-course-prep.pdf"
     },
     {
       "name": "From Relational Model (SQL) to MongoDB's Document Model",
       "issuer": "MongoDB",
-      "file": "/mongodb-skill.pdf",
+      "file": "/certificates/mongodb-skill.pdf",
       "verify": "https://www.credly.com/badges/852233b2-6892-492f-89ad-f19fd268516e"
     },
     {
