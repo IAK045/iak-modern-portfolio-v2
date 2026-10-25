@@ -1,4 +1,3 @@
-
 {
   "name": "Isteyaque Ahmad Khan",
   "brand": "IAK",
@@ -8,13 +7,13 @@
   "graduation": "2027",
   "github": "https://github.com/IAK045",
   "linkedin": "https://www.linkedin.com/in/isteyaque/",
-  "portfolio": "https://iak-modern-portfolio-v2.vercel.app",
-  "email": "kaifkhan746192@gmail.com",
+  "portfolio": "https://iakdev.vercel.app",
+  "email": "",
   "projects": [
     {
       "name": "MediScan — AI Medicine Assistant",
       "category": "AI + Mobile",
-      "description": "Flutter medicine assistant using OCR to extract medicine text, OpenFDA lookups, and Hindi text-to-speech. Features should be described as implemented only where they work in the current repository.",
+      "description": "Flutter medicine assistant concept using OCR to extract medicine text, OpenFDA lookups, and Hindi text-to-speech. Describe features as implemented only where they work in the current repository.",
       "stack": [
         "Flutter",
         "Dart",
@@ -40,9 +39,46 @@
       "status": "Digital design · Prototype pending"
     },
     {
+      "name": "Handwritten Text Scanner",
+      "category": "AI + Full-Stack",
+      "description": "OCR workflow concept combining handwritten-text recognition with an API and a Flutter interface. Add a demo and repository link when the current build is ready.",
+      "stack": [
+        "Python",
+        "Tesseract OCR",
+        "Flask",
+        "Flutter"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Project"
+    },
+    {
+      "name": "CyberSec Toolkit",
+      "category": "Python Tools",
+      "description": "Python-based cybersecurity utility project. Document the specific modules, safe test cases, and supported workflows in the repository README.",
+      "stack": [
+        "Python",
+        "Linux",
+        "Networking"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Project"
+    },
+    {
+      "name": "Tic Tac Toe — Java",
+      "category": "Programming",
+      "description": "A Java game project demonstrating basic game logic, input handling, and conditional flow. Add a repository-specific link when available.",
+      "stack": [
+        "Java",
+        "OOP",
+        "Game Logic"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Project"
+    },
+    {
       "name": "Developer Portfolio",
       "category": "Web Development",
-      "description": "Personal portfolio built with Next.js, React, TypeScript, responsive CSS, JSON-driven project data, and Vercel deployment.",
+      "description": "Personal portfolio rebuilt with Next.js, React, TypeScript, responsive CSS, JSON-driven project data, and Vercel deployment workflow.",
       "stack": [
         "Next.js",
         "React",
@@ -51,8 +87,21 @@
         "JSON",
         "Vercel"
       ],
-      "href": "https://github.com/IAK045/iak-modern-portfolio-v2",
+      "href": "https://github.com/IAK045",
       "status": "Current build"
+    },
+    {
+      "name": "DSA Practice & Visual Learning",
+      "category": "Computer Science",
+      "description": "Data structures and algorithms practice. Add specific visualizations, solved-problem counts, or benchmark results only when you can verify them.",
+      "stack": [
+        "C++",
+        "Java",
+        "Python",
+        "DSA"
+      ],
+      "href": "https://github.com/IAK045",
+      "status": "Learning project"
     }
   ],
   "skills": [
